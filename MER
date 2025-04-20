@@ -1,16 +1,1 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Mer" id="5B1C6B44-64AD-32FD-FAC2-80681A55D96A" version="3.5">
-<createdBy>PC</createdBy>
-<createdTime>2025-04-19 06:12:23 UTC</createdTime>
-<ownerDesignName>Mer</ownerDesignName>
-<capitalNames>false</capitalNames>
-<designId>5B1C6B44-64AD-32FD-FAC2-80681A55D96A</designId>
-</OSDM_Design>
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Fisico" id="5B1C6B44-64AD-32FD-FAC2-80681A55D96A" version="3.5">
-<createdBy>PC</createdBy>
-<createdTime>2025-04-19 06:12:23 UTC</createdTime>
-<ownerDesignName>Fisico</ownerDesignName>
-<capitalNames>false</capitalNames>
-<designId>5B1C6B44-64AD-32FD-FAC2-80681A55D96A</designId>
-</OSDM_Design>
+
